@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILE -o $BASENAME.o
+export CFILE=main.c ; ./1-compiler.sh $CFILE
