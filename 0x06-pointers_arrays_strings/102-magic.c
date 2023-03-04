@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/* main - entry point
+*
+*/
 int main(void)
 { int n;
 int a[5];
